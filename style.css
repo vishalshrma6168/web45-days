@@ -1,0 +1,20 @@
+/* universal selctor */
+*{
+  background-color: blue;
+}
+/* element selctor */
+h1{
+  text-align: center;
+}
+
+/* id serlctor */
+#vishal{
+  color: black;
+}
+
+/* class selctor */
+
+.myclass{
+  color: aqua;
+  text-align: center;
+}

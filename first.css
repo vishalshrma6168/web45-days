@@ -1,0 +1,19 @@
+/* element selector */
+p{
+  color: red;
+}
+
+/* universal selector */
+*{
+  background-color: rgb(27, 27, 145);
+}
+
+/*id */
+#hp{
+  color:red;
+}
+
+/* class */
+.cl{
+  color: brown;
+}
