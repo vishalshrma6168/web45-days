@@ -14,3 +14,10 @@ first="anu" //upadate
 const first ="xyz" //redered
 
 console.log(first)
+
+
+
+// let firstname="vishal"
+// // console.log(firstname)
+// firstname="vishu"
+// console.log(firstname)

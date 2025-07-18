@@ -1,0 +1,32 @@
+*{
+  padding: 0%;
+  margin: auto;
+}
+.parent{
+  background-color: aquamarine;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+}
+.child{
+  background-color: aliceblue;
+  width: 200px;
+  height: 100px;
+  position: sticky;
+  overflow: hidden;
+  
+   left: 10%;
+}
+
+li{
+  display: none;
+}
+.nav{
+  background-color: black;
+  color: azure;
+  height: 40px;
+  
+}
+.in{
+  display: inline;
+}
