@@ -35,11 +35,9 @@
 
 // ONO
 /*
-
 GGYGI
 VGUVU
 YBIU
 */
-
 // operators
 
