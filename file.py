@@ -45,8 +45,59 @@
 #   print(f)
 
 
-firstname="vishal"
-lastname="sharma"
-address="hamirpur"
-# print(f"my  firstname is{firstname}and lastname is{lastname} and my address is{address}")
-print("my firstname is ",firstname,"my lastaname is ",lastname,"my address is ",address)
+# firstname="vishal"
+# lastname="sharma"
+# address="hamirpur"
+# # print(f"my  firstname is{firstname}and lastname is{lastname} and my address is{address}")
+# print("my firstname is ",firstname,"my lastaname is ",lastname,"my address is ",address)
+
+
+
+
+# firstname="vishal"
+# lastname="sharma"
+# address="hamirpur"
+# # print("my firstname is ",firstname,"my lastname is ",lastname,"my address is ",address)
+# print(f"my firstname is {firstname} my lastname is {lastname} my address is {address}")
+
+
+# def add_value(a,b=6):
+#   sum=a+b
+#   return sum
+
+# xy=add_value(4)
+# print(xy)
+
+# open
+
+# f=open("sample.txt","r")
+# txt=f.read()
+# f.close()
+# print(txt)
+
+
+# # write
+# f=open("sample.txt","w")
+# f.write(" my name is vishal ")
+# f.close()
+# print(f)
+
+
+
+
+# # append 
+# fb=open("sample.txt","a")
+# fb.write(" my address is hamirpur")
+# fb.close()
+# print(fb)
+
+
+# remove
+# import os
+# os.remove("sample.txt")
+
+
+# with open("sample.txt","r") as f:
+#   txt= f.read()
+#   f.close()
+#   print(txt)
