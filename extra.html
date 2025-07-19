@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+.par{
+  background-color: aquamarine;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  /* flex-direction: row-reverse; */
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+  /* align-items: end; */
+  /* align-content: start; */
+ /* flex-grow: calc(); */
+}
+.child1{
+  background-color: red;
+  height: 50px;
+  width: 50px;
+   /* align-self:center; */
+}
+.child2{
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  flex-shrink: unset;
+}
+.child3{
+  background-color: red;
+  height: 50px;
+  width: 50px;
+}
+</style>
+<body>
+  <div class="par">
+    <div class="child1">
+       1
+    </div>
+    <div class="child2">2</div>
+    <div class="child3">3</div>
+  </div>
+</body>
+</html>
