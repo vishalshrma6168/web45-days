@@ -92,6 +92,16 @@
 # print(fb)
 
 
+
+# f=open("sample.txt","a")
+# f.write(" my name is vishal ")
+# f.close()
+# print(f)
+
+f=open("sample.txt","a")
+f.write("hiii")
+f.close()
+print(f)
 # remove
 # import os
 # os.remove("sample.txt")
