@@ -98,10 +98,10 @@
 # f.close()
 # print(f)
 
-f=open("sample.txt","a")
-f.write("hiii")
-f.close()
-print(f)
+# f=open("sample.txt","a")
+# f.write("hiii")
+# f.close()
+# print(f)
 # remove
 # import os
 # os.remove("sample.txt")
@@ -111,3 +111,9 @@ print(f)
 #   txt= f.read()
 #   f.close()
 #   print(txt)
+
+
+f=open("sample.txt","a")
+f.write("from ch")
+f.close()
+print(f)
