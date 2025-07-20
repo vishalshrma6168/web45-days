@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+.div{
+  background-color: rgb(86, 65, 37);
+  height: 200px;
+  width: 200px;
+}
+.div:hover{
+background-color: red;
+/* transition: 2s; */
+/* border-radius: 50%; */
+transition-duration: 2s;
+/* transition: margin-top 2s linear 2s; */
+transition-timing-function: steps();
+/* transform: scale(0.5); */
+/* transform: rotate(90deg); */;
+transform: skew(30deg);
+}
+
+</style>
+<body>
+  <div class="div"></div>
+</body>
+</html>

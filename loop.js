@@ -156,3 +156,65 @@
 // console.log(name)
 
 // alert("hello")
+
+// settime out
+// console.log("hello")
+
+// setTimeout(()=>{
+//   console.log("hello vishal in 5 sec")
+// },5000)
+
+
+// setInterval(()=>{
+//   console.log("hello")
+// },2000)
+
+// console.log("hello")
+
+// setTimeout(()=>{
+//  console.log("vishal")
+// },2000)
+
+
+// setTimeout(()=>{
+  // obj={
+  //   name:"vishal",
+  //   email:"garg2000vishal@gmail.com"
+  // }
+  // console.log(obj)
+// },2000)
+
+// setInterval(()=>{
+//   obj={
+//     name:"vishal",
+//     email:"garg2000vishal@gmail.com"
+//   }
+//   console.log(obj)
+// },2000)
+
+
+// let students={
+//   name:"vishal",
+//   email:"garg2000vishal@gmail.com",
+//   phoneNumber:7876612810,
+//   getName:function (){
+//     return this.name
+//   },
+//   getEmail:function(){
+//    return this.email
+//   },
+//   getPhoneNumber:function(){
+//     return this.phoneNumber
+//   }
+// }
+// let st=students.getPhoneNumber()
+// console.log(st)
+
+
+//  function age(){
+//   let age=19
+//   let output= age >18 ?"adult" :"not adult"
+//   console.log(output)
+//  }
+
+//  age()

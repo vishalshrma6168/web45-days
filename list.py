@@ -49,7 +49,7 @@
 # f=factorial(2)
 # print(f)
 
-
++
 
 
 # li=[1,2,3,4,5,6,7,8]
@@ -72,7 +72,6 @@
 # li=[0,1,2,3,4,5,6,7,8,9,10]
 # def fel(x):
 #   return x%2==0
-
 # ab=list(filter(fel,li))
 # print(ab)
 
@@ -93,6 +92,9 @@
 #     return n*factorial(n-1)
   
 # print(factorial(3))
+
+
+
 
 
 
