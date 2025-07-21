@@ -17,6 +17,8 @@
 # map method
 # applies a function to every item in an iterable
 
+
+
 # numbers=[1,2,3,4,5]
 # sq=list(map(lambda x:x*2,numbers))
 # print(sq)
@@ -25,6 +27,8 @@
 # numbers=[1,2,3,4,5,6,7,8]
 # def square(x):
 #     return x*x
+
+
 
 # sq=list(map(square,numbers))
 # print(sq)
@@ -48,5 +52,3 @@
 # numbers=[1,2,3,4,5]
 # sum_of_num=reduce(lambda x,y:x+y,numbers)
 # print(sum_of_num)
-
-

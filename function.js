@@ -1,4 +1,3 @@
-
 // arrow function
 // const sum=()=>{
 //   console.log("hello vishal")

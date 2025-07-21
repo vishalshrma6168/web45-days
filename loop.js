@@ -211,6 +211,11 @@
 // console.log(st)
 
 
+
+
+
+
+
 //  function age(){
 //   let age=19
 //   let output= age >18 ?"adult" :"not adult"
