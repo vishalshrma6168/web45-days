@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>hello</h1>
+  <img src="yt-logo.png" alt="">
+  <ul>
+    <li>hello</li>
+    <li>bye</li>
+    <li>how are you </li>
+    <li>wht are you doing here</li>
+  </ul>
+</body>
+<script>
+let img=document.querySelector("img")
+console.log(img)
+img.style.width="300px"
+let h1=document.querySelector("h1")
+h1.style.color="purple"
+h1.style.backgroundColor="yellow"
+console.log(h1)
+
+let links=document.querySelectorAll("li")
+// for(let i=0;i<links.length;i++){
+//   links[i].style.color="red"
+// }
+
+for (link of links){
+  link.style.color="green"
+}
+</script>
+</html>

@@ -223,3 +223,46 @@
 //  }
 
 //  age()
+
+
+
+
+
+// let a=10
+// let b=5
+// console.log(a%b)
+
+// let a=2
+// console.log(a)
+// let a=3
+
+// a**=3 // a=a*3
+// console.log(a)
+
+// let a=13
+// let b=13
+// console.log(a>b)
+
+// true----false
+// false---true
+
+
+// let a=33
+// let b=44
+// let c=55
+// console.log((a>b) || (b<c))
+
+
+let color="yellow"
+if(color=="red"){
+  console.log("stop now")
+}
+else if(color=="green"){
+  console.log("go now")
+}
+else if(color=="yellow"){
+console.log("please wait")
+}
+else{
+  console.log("invalid color")
+}
